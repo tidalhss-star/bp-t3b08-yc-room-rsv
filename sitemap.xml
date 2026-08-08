@@ -1,254 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/about.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/guide-001-jnmz6s.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/qa-002-1d859mm.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260705-193.html</loc>
-    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260705-510.html</loc>
-    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0268.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0269.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0270.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0271.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0272.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0273.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0274.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0275.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0276.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0277.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0278.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0279.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0280.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0281.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0282.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260719-0283.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260721-0472.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260721-0473.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260721-0474.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260721-0475.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0485.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0486.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0487.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0488.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0489.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0490.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0491.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0492.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0493.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0494.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/gemini-coverage-20260722-0495.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/guide-001-jnmz6s.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeomchang-guide-info.hardcoreroom.com/posts/qa-002-1d859mm.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
